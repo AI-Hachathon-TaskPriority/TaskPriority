@@ -1,0 +1,6 @@
+Environment
+Java8
+Python 2.7.10
+Python libs:
+	Tensorflow 1.2.0
+	bottle 0.12.13
